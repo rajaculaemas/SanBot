@@ -1,5 +1,5 @@
 # SanBot
-**An Easy Sanbox Malware or File Analysis Using Telegram Bot**
+**An Easy Sandbox Malware or File Analysis Using Telegram Bot**
 
 **A. OVERVIEW**
 
